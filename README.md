@@ -1,0 +1,2 @@
+# Django
+Django CI project
